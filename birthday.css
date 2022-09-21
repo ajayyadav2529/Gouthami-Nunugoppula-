@@ -33,6 +33,7 @@ body{
 
 img.birthday{
     max-height: 40vh;
+    max-width: 40vw;
 
 }
 .muted{
